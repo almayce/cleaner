@@ -1,0 +1,9 @@
+allure-report/
+build/
+out/
+video/
+.*
+!/.gitignore
+.xml
+.idea
+
